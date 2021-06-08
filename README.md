@@ -6,9 +6,11 @@
 
 - gh-pages hosts and deploys preview branch on [aihpc.cf](https://aihpc.cf/)
 
-## Todo list:
+## Todo & Things to remember:
 
 - add tracks web page
+
+- when upload new content to vardhaman cPanel, we can delete config, cName and ReadME files.
 
 ## References & Disclaimer:
 
